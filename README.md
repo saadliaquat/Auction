@@ -1,3 +1,2 @@
-# Live-Auction-Webapp
+# Auction-Webapp
 MERN, Web Sockets, Tailwind CSS
-# Auction
